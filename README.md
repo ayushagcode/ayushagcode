@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQFqEHPp0vRqQA/article-cover_image-shrink_720_1280/0/1634393374732?e=2147483647&v=beta&t=KGgxFoFiiQ9yyp5gGEVHvUtGh1HN5z0vUY72kKZcE5M)](https://ayushagarwal.io)
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+<img align="right" alt="Coding" width="400"src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushagcode&label=Profile%20views&color=0e75b6&style=flat" alt="ayushagcode" /> </p>
 
